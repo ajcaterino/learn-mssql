@@ -15,5 +15,9 @@
     "url": "https://github.com/DoughNutz/learn-mssql/issues"
   },
   "homepage": "https://github.com/DoughNutz/learn-mssql#readme",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "msnodesqlv8": "^0.8.6",
+    "mssql": "^6.0.1"
+  }
 }
