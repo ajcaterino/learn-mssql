@@ -1,0 +1,11 @@
+{
+  "name": "learn-mssql",
+  "version": "1.0.0",
+  "description": "Learn how to use the mssql npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Caterino",
+  "license": "ISC"
+}
