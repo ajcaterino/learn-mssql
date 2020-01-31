@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tony Caterino",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoughNutz/learn-mssql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DoughNutz/learn-mssql/issues"
+  },
+  "homepage": "https://github.com/DoughNutz/learn-mssql#readme",
   "license": "ISC"
 }
